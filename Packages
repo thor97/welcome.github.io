@@ -1,0 +1,13 @@
+Package: com.thor97.welcome
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Thor <thorf1nhl@gmail.com>
+Filename: com.thor97.welcome_0.0.1-4+debug_iphoneos-arm.deb
+Size: 4690
+MD5sum: e0dc3023ab350858d2e69cebfa90541e
+SHA1: d0e39a8c1c0d896c058260ec2a5d695b0030e437
+SHA256: 5bdf6662419df1652c7b89ee2bfcb77f279e4bcca41769026aeda60c937ed6c4
+Section: Tweeks
+Description: Welcome Button
+Author: Thor <thorf1nhl@gmail.com>
+Name: Control Welcomer

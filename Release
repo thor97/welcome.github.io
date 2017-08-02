@@ -1,0 +1,8 @@
+Origin: The Welcome Repo
+Label: Welcome Repo
+Suite: debug
+Version: 0.0.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: The Welcome Repo
+Description: The Official Welcome Repo
